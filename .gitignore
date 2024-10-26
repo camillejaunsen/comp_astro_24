@@ -1,4 +1,16 @@
-# Byte-compiled / optimized / DLL files
+#Ignore macOs system files
+.DS_Store
+
+# Ignore specific project files
+Dockerfile
+Makefile
+pip_install_package.sh
+requirements.txt
+src/.DS_Store
+src/daneel/.DS_Store
+src/daneel/detection/.DS_Store
+
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
