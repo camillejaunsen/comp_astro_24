@@ -1,0 +1,89 @@
+1. Kernel Linear:
+
+Confusion Matrix - Train Set
+[[   0 2226]
+ [   0 2861]]
+Confusion Matrix - Dev Set
+[[  0 254]
+ [  0 316]]
+
+classification_report_train
+              precision    recall  f1-score   support
+
+       False       0.00      0.00      0.00      2226
+        True       0.56      1.00      0.72      2861
+
+    accuracy                           0.56      5087
+   macro avg       0.28      0.50      0.36      5087
+weighted avg       0.32      0.56      0.40      5087
+
+classification_report_dev
+              precision    recall  f1-score   support
+
+       False       0.00      0.00      0.00       254
+        True       0.55      1.00      0.71       316
+
+    accuracy                           0.55       570
+   macro avg       0.28      0.50      0.36       570
+weighted avg       0.31      0.55      0.40       570
+
+
+2. Kernel Polynomial:
+
+Confusion Matrix - Train Set
+[[  95 2131]
+ [  50 2811]]
+Confusion Matrix - Dev Set
+[[ 55 199]
+ [ 63 253]]
+
+classification_report_train
+              precision    recall  f1-score   support
+
+       False       0.66      0.04      0.08      2226
+        True       0.57      0.98      0.72      2861
+
+    accuracy                           0.57      5087
+   macro avg       0.61      0.51      0.40      5087
+weighted avg       0.61      0.57      0.44      5087
+
+classification_report_dev
+              precision    recall  f1-score   support
+
+       False       0.47      0.22      0.30       254
+        True       0.56      0.80      0.66       316
+
+    accuracy                           0.54       570
+   macro avg       0.51      0.51      0.48       570
+weighted avg       0.52      0.54      0.50       570
+
+
+
+3. Kernel Gaussian:
+
+Confusion Matrix - Train Set
+[[  37 2189]
+ [  14 2847]]
+Confusion Matrix - Dev Set
+[[  0 254]
+ [  0 316]]
+
+classification_report_train
+              precision    recall  f1-score   support
+
+       False       0.73      0.02      0.03      2226
+        True       0.57      1.00      0.72      2861
+
+    accuracy                           0.57      5087
+   macro avg       0.65      0.51      0.38      5087
+weighted avg       0.64      0.57      0.42      5087
+
+classification_report_dev
+              precision    recall  f1-score   support
+
+       False       0.00      0.00      0.00       254
+        True       0.55      1.00      0.71       316
+
+    accuracy                           0.55       570
+   macro avg       0.28      0.50      0.36       570
+weighted avg       0.31      0.55      0.40       570
