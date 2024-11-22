@@ -1,0 +1,14 @@
+First hidden layer with 128 neutrons, I get 
+
+confusion_matrix_train
+[[1343  883]
+ [1456 1405]]
+confusion_matrix_dev
+[[ 23 231]
+ [ 21 295]]
+
+train set error 0.4597994888932573
+dev set error 0.4421052631578948
+------------
+precision_train 0.5402005111067427
+precision_dev 0.5578947368421052
