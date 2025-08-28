@@ -1,0 +1,25 @@
+Star parameters:
+
+Temperature: 3457 K
+Radius: 0.45 R Solar Radii
+
+
+Planet parameters:
+
+Mass = 8.63 +/- 1.35 Earth Masses
+Radius = 2.61 +/- 0.09 Earth Radii
+Equilibrium temperature: 250-300K for albedo between 0 and 0.3
+
+
+Reported Chemistry of the Atmosphere:
+
+Table 2. Retrieved Molecular Abundances and Detection Significances of Prominent Molecules in the Atmosphere of K2-18 b
+Cases		CH4 			CO2 			DMS			H2O	NH3 	CH3Cl	CO	HCN
+No offset	-2.04 (+0.61, -0.72)	-1.75 (+0.45, -1.03)	-4.46 (+0.77, -0.88)	<−3.21	<−4.46	<−2.50	<−3.00	<−2.41
+
+One offset	-1.74 (+0.59, -0.69)	-2.09 (+0.51, -0.94)	-6.35 (+1.59, -3.60)	<−3.06	<−4.51	<−3.80	<−3.50	<−2.92
+
+Two offsets	-1.89 (+0.63, -0.70)	-2.05 (+0.50, -0.84)	-6.87 (+1.87, -3.25)	<−3.49	<−4.93	<−3.62	<−3.19	<−3.2
+
+Values in log_10
+

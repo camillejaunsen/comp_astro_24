@@ -1,0 +1,26 @@
+Input parameters: 
+
+H2O: mix_ratio = 1.1185e-4
+
+CH4: mix_ratio = 1.185e-6
+
+CO2: mix_ratio = 5.3e-7
+
+CO: mix_ratio = 1.5e-4
+
+T = 300K
+
+planet_radius = 0.211
+
+
+Retrieved parameters:
+
+log(H2O): -1.61 (+0.41, -0.74)
+log(CH4): -1.74 (+0.48, -0.68)
+log(CO2): -1.24 (+0.14, -0.40)
+log(CO): -1.52 (+0.32, -0.71)
+
+T = 443.81 (+29, -49.48)
+
+planet_radius: 0.5 (+0, -0)
+

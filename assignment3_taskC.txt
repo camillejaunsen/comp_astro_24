@@ -1,0 +1,27 @@
+Input parameters:
+
+
+ H2O: mix_ratio = 1.1185e-4
+
+ CH4: mix_ratio = 1.185e-6
+
+ CO2: mix_ratio = 5.3e-7
+
+ CO: mix_ratio = 1.5e-8
+
+
+T = 1300
+
+[Planet]
+planet_type = Simple
+planet_mass = 0.02807
+planet_radius = 0.211
+
+
+
+Retrieved parameters: 
+
+T = 1299.40 (+1.03, -2.04)
+log(H20) = -3.79 (+0.05, -0.05) 
+planet_radius = 0.21 (+0.00, -0.00)
+

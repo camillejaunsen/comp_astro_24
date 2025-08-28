@@ -1,0 +1,14 @@
+------------
+precision_train 0.925
+precision_dev 0.625
+------------
+recall_train 1.0
+recall_dev 1.0
+------------
+confusion_matrix_train
+[[5047    3]
+ [   0   37]]
+confusion_matrix_dev
+[[562   3]
+ [  0   5]]
+
